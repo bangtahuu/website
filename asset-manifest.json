@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.b100e6da.chunk.css",
-    "main.js": "/website/static/js/main.cb16d806.chunk.js",
-    "main.js.map": "/website/static/js/main.cb16d806.chunk.js.map",
-    "runtime-main.js": "/website/static/js/runtime-main.4cafdc12.js",
-    "runtime-main.js.map": "/website/static/js/runtime-main.4cafdc12.js.map",
-    "static/js/2.f47e318d.chunk.js": "/website/static/js/2.f47e318d.chunk.js",
-    "static/js/2.f47e318d.chunk.js.map": "/website/static/js/2.f47e318d.chunk.js.map",
-    "index.html": "/website/index.html",
-    "precache-manifest.8e3744644c66268d5dd09a07e980982f.js": "/website/precache-manifest.8e3744644c66268d5dd09a07e980982f.js",
-    "service-worker.js": "/website/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/website/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/website/static/media/logo.25bf045c.svg"
+    "main.css": "/hotel/static/css/main.2c9c0a14.chunk.css",
+    "main.js": "/hotel/static/js/main.be47f0f6.chunk.js",
+    "main.js.map": "/hotel/static/js/main.be47f0f6.chunk.js.map",
+    "runtime-main.js": "/hotel/static/js/runtime-main.e8220722.js",
+    "runtime-main.js.map": "/hotel/static/js/runtime-main.e8220722.js.map",
+    "static/css/2.507716e9.chunk.css": "/hotel/static/css/2.507716e9.chunk.css",
+    "static/js/2.876917db.chunk.js": "/hotel/static/js/2.876917db.chunk.js",
+    "static/js/2.876917db.chunk.js.map": "/hotel/static/js/2.876917db.chunk.js.map",
+    "index.html": "/hotel/index.html",
+    "precache-manifest.3f7bd49eabd4d49a16f5caead018024f.js": "/hotel/precache-manifest.3f7bd49eabd4d49a16f5caead018024f.js",
+    "service-worker.js": "/hotel/service-worker.js",
+    "static/css/2.507716e9.chunk.css.map": "/hotel/static/css/2.507716e9.chunk.css.map",
+    "static/css/main.2c9c0a14.chunk.css.map": "/hotel/static/css/main.2c9c0a14.chunk.css.map",
+    "static/media/semantic.min.css": "/hotel/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/react-widgets.css": "/hotel/static/media/rw-widgets.eceddf47.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.4cafdc12.js",
-    "static/js/2.f47e318d.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.cb16d806.chunk.js"
+    "static/js/runtime-main.e8220722.js",
+    "static/css/2.507716e9.chunk.css",
+    "static/js/2.876917db.chunk.js",
+    "static/css/main.2c9c0a14.chunk.css",
+    "static/js/main.be47f0f6.chunk.js"
   ]
 }
